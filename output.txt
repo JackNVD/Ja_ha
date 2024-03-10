@@ -1,8 +1,10 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k dir
- Volume in drive D is Data
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k cd C:\Desktop & dir
+
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release> Volume in drive D is Data
  Volume Serial Number is 1427-4D92
 
  Directory of D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release
@@ -19,6 +21,4 @@ T6 - 23/02/2024  07:39         2,490,218 Octokit.xml
                7 File(s)      5,293,180 bytes
                2 Dir(s)  423,007,133,696 bytes free
 
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
