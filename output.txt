@@ -1,61 +1,93 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop\Js_ha>cmd /k ipconfig all
+C:\Users\Jofaxdev\Desktop\Js_ha>cmd /k ipconfig /all
 
-Error: unrecognized or incomplete command line.
+Windows IP Configuration
 
-USAGE:
-    ipconfig [/allcompartments] [/? | /all | 
-                                 /renew [adapter] | /release [adapter] |
-                                 /renew6 [adapter] | /release6 [adapter] |
-                                 /flushdns | /displaydns | /registerdns |
-                                 /showclassid adapter |
-                                 /setclassid adapter [classid] |
-                                 /showclassid6 adapter |
-                                 /setclassid6 adapter [classid] ]
+   Host Name . . . . . . . . . . . . : DESKTOP-4350HL6
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Mixed
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
 
-where
-    adapter             Connection name 
-                       (wildcard characters * and ? allowed, see examples)
+Ethernet adapter Ethernet:
 
-    Options:
-       /?               Display this help message
-       /all             Display full configuration information.
-       /release         Release the IPv4 address for the specified adapter.
-       /release6        Release the IPv6 address for the specified adapter.
-       /renew           Renew the IPv4 address for the specified adapter.
-       /renew6          Renew the IPv6 address for the specified adapter.
-       /flushdns        Purges the DNS Resolver cache.
-       /registerdns     Refreshes all DHCP leases and re-registers DNS names
-       /displaydns      Display the contents of the DNS Resolver Cache.
-       /showclassid     Displays all the dhcp class IDs allowed for adapter.
-       /setclassid      Modifies the dhcp class id.  
-       /showclassid6    Displays all the IPv6 DHCP class IDs allowed for adapter.
-       /setclassid6     Modifies the IPv6 DHCP class id.
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Killer E2600 Gigabit Ethernet Controller
+   Physical Address. . . . . . . . . : 08-8F-C3-16-8A-6E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
+Ethernet adapter Ethernet 3:
 
-The default is to display only the IP address, subnet mask and
-default gateway for each adapter bound to TCP/IP.
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-11
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::80b6:ceac:c1f1:e30c%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 386531367
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-58-4D-57-08-8F-C3-16-8A-6E
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
 
-For Release and Renew, if no adapter name is specified, then the IP address
-leases for all adapters bound to TCP/IP will be released or renewed.
+Wireless LAN adapter Local Area Connection* 11:
 
-For Setclassid and Setclassid6, if no ClassId is specified, then the ClassId is removed.
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 08-6A-C5-62-EE-8C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
-Examples:
-    > ipconfig                       ... Show information
-    > ipconfig /all                  ... Show detailed information
-    > ipconfig /renew                ... renew all adapters
-    > ipconfig /renew EL*            ... renew any connection that has its 
-                                         name starting with EL
-    > ipconfig /release *Con*        ... release all matching connections,
-                                         eg. "Wired Ethernet Connection 1" or
-                                             "Wired Ethernet Connection 2"
-    > ipconfig /allcompartments      ... Show information about all 
-                                         compartments
-    > ipconfig /allcompartments /all ... Show detailed information about all
-                                         compartments
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #4
+   Physical Address. . . . . . . . . : 0A-6A-C5-62-EE-8B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Killer(R) Wi-Fi 6 AX1650i 160MHz Wireless Network Adapter (201NGW)
+   Physical Address. . . . . . . . . : 08-6A-C5-62-EE-8B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2402:800:6340:f4f1:4e4:92bb:ead1:d425(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2402:800:6340:f4f1:2d92:8a7d:dc89:8900(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2402:800:6340:f4f1:4809:8059:ee6e:485e(Deprecated) 
+   Link-local IPv6 Address . . . . . : fe80::4e4:92bb:ead1:d425%4(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.8(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Chu? Nhâ?t, Tha'ng Ba 10, 2024 18:04
+   Lease Expires . . . . . . . . . . : Thu' Hai, Tha'ng Ba 11, 2024 05:08
+   Default Gateway . . . . . . . . . : fe80::1%4
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 285764293
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2D-58-4D-57-08-8F-C3-16-8A-6E
+   DNS Servers . . . . . . . . . . . : fe80::1%4
+                                       192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 08-6A-C5-62-EE-8F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
 
 C:\Users\Jofaxdev\Desktop\Js_ha>
 C:\Users\Jofaxdev\Desktop\Js_ha>
