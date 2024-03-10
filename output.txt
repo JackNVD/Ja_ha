@@ -1,8 +1,11 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k calc
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k cmd
+Microsoft Windows [Version 10.0.18363.1766]
+(c) 2019 Microsoft Corporation. All rights reserved.
 
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
