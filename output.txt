@@ -1,50 +1,23 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k ipconfig
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k dir
+ Volume in drive D is Data
+ Volume Serial Number is 1427-4D92
 
-Windows IP Configuration
+ Directory of D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release
 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet 3:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::80b6:ceac:c1f1:e30c%17
-   IPv4 Address. . . . . . . . . . . : 192.168.56.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter Local Area Connection* 11:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 12:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2402:800:6340:f4f1:4e4:92bb:ead1:d425
-   Temporary IPv6 Address. . . . . . : 2402:800:6340:f4f1:2d92:8a7d:dc89:8900
-   Temporary IPv6 Address. . . . . . : 2402:800:6340:f4f1:4809:8059:ee6e:485e
-   Link-local IPv6 Address . . . . . : fe80::4e4:92bb:ead1:d425%4
-   IPv4 Address. . . . . . . . . . . : 192.168.1.8
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::1%4
-                                       192.168.1.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+T2 - 11/03/2024  04:40    <DIR>          .
+T2 - 11/03/2024  04:40    <DIR>          ..
+T2 - 11/03/2024  04:52            11,776 Js_ha.exe
+T2 - 11/03/2024  02:02               189 Js_ha.exe.config
+T2 - 11/03/2024  04:52            26,112 Js_ha.pdb
+T4 - 08/03/2023  14:09           711,952 Newtonsoft.Json.dll
+T4 - 08/03/2023  14:05           713,541 Newtonsoft.Json.xml
+T6 - 23/02/2024  07:39         1,339,392 Octokit.dll
+T6 - 23/02/2024  07:39         2,490,218 Octokit.xml
+               7 File(s)      5,293,180 bytes
+               2 Dir(s)  423,007,133,696 bytes free
 
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
