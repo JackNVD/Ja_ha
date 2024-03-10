@@ -3,23 +3,7 @@ Microsoft Windows [Version 10.0.18363.1766]
 
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cd %USERPROFILE%\Desktop
 
-D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k dir
- Volume in drive D is Data
- Volume Serial Number is 1427-4D92
-
- Directory of D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release
-
-T2 - 11/03/2024  04:40    <DIR>          .
-T2 - 11/03/2024  04:40    <DIR>          ..
-T2 - 11/03/2024  05:12            11,776 Js_ha.exe
-T2 - 11/03/2024  02:02               189 Js_ha.exe.config
-T2 - 11/03/2024  05:12            26,112 Js_ha.pdb
-T4 - 08/03/2023  14:09           711,952 Newtonsoft.Json.dll
-T4 - 08/03/2023  14:05           713,541 Newtonsoft.Json.xml
-T6 - 23/02/2024  07:39         1,339,392 Octokit.dll
-T6 - 23/02/2024  07:39         2,490,218 Octokit.xml
-               7 File(s)      5,293,180 bytes
-               2 Dir(s)  423,007,133,696 bytes free
+D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>cmd /k cd "C:\User\Jofaxdev"
 
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
 D:\DESKTOP\L?p trình .NET\Js_ha\Js_ha\bin\Release>
