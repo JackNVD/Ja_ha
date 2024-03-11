@@ -1,4 +1,7 @@
 Microsoft Windows [Version 10.0.19045.1826]
 (c) Microsoft Corporation. All rights reserved.
 
+C:\Users\Du\Desktop>cmd /k net session >nul 2>&1 & if %errorlevel% == 0 (echo Success) else (echo Failure)
+Success
+
 C:\Users\Du\Desktop>
