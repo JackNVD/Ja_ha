@@ -29,7 +29,7 @@ C:\Users\Du\Desktop>cmd /k dir
 02/02/2023  05:04 PM         1,336,208 vs_enterprise__1165010811.1567758444_VS2019.exe
 10/12/2023  06:23 AM         3,579,880 winrar-x64-624.exe
               14 File(s)     10,127,523 bytes
-               7 Dir(s)  24,966,074,368 bytes free
+               7 Dir(s)  24,972,206,080 bytes free
 
 C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
