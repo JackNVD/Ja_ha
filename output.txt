@@ -1,36 +1,35 @@
-Microsoft Windows [Version 10.0.18363.1766]
-(c) 2019 Microsoft Corporation. All rights reserved.
+Microsoft Windows [Version 10.0.19045.1826]
+(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop>cmd /k dir
- Volume in drive C is WINDOWS
- Volume Serial Number is 42A3-518B
+C:\Users\Du\Desktop>cmd /k dir
+ Volume in drive C has no label.
+ Volume Serial Number is BACE-C775
 
- Directory of C:\Users\Jofaxdev\Desktop
+ Directory of C:\Users\Du\Desktop
 
-T2 - 11/03/2024  15:36    <DIR>          .
-T2 - 11/03/2024  15:36    <DIR>          ..
-CN - 18/02/2024  16:49         2,234,615 Bài1.sketch
-CN - 25/02/2024  23:57    <DIR>          dnSpy-net-win64
-CN - 25/02/2024  23:57        85,810,042 dnSpy-net-win64.zip
-T2 - 12/02/2024  13:14             1,246 Dot Kich.lnk
-T2 - 26/02/2024  00:58    <DIR>          Folder-locker-master
-T2 - 26/02/2024  03:35         5,714,047 Folder-locker-master.zip
-T2 - 26/02/2024  04:09    <DIR>          Folder-locker-V2
-T4 - 06/03/2024  15:53    <DIR>          GameDemo
-T2 - 11/03/2024  12:51    <DIR>          HELLO_RENAME
-T4 - 28/02/2024  16:23         7,019,971 KH17_M?u thuy?t minh d? tài NCKH sinh viên16022024.docx
-T2 - 14/09/2020  23:59    <DIR>          meu-primeiro-jogo-multiplayer-master
-CN - 10/03/2024  11:03         6,600,666 meu-primeiro-jogo-multiplayer-master.zip
-T2 - 11/03/2024  13:32    <DIR>          Ma hóa và Js_ha
-T6 - 01/03/2024  18:34    <DIR>          NGUYENVANDU_DE_1
-T6 - 01/03/2024  19:36           110,996 NGUYENVANDU_DE_1.rar
-CN - 18/02/2024  19:41    <DIR>          Nguy?n Van Du - KP21D01 -Bài ki?mt tra 1
-CN - 18/02/2024  19:42        53,304,281 Nguy?n Van Du - KP21D01 -Bài ki?mt tra 1.rar
-T2 - 11/03/2024  01:09    <DIR>          Scien
-CN - 10/03/2024  18:21         3,175,163 tinyarena_windows.zip
-               9 File(s)    163,971,027 bytes
-              12 Dir(s)  258,484,842,496 bytes free
+03/11/2024  01:49 AM    <DIR>          .
+03/11/2024  01:49 AM    <DIR>          ..
+03/11/2024  01:45 AM    <DIR>          dsadsa
+02/23/2024  02:52 AM         1,917,251 file-anti-copy_55.zip
+03/03/2024  01:43 PM    <DIR>          fsadfsa
+03/03/2024  01:43 PM    <DIR>          jhgjhgd
+03/11/2024  01:39 AM    <DIR>          Js_ha
+08/07/2012  10:28 PM         1,999,827 M File Anti-Copy 5.5.exe
+02/23/2024  02:54 AM             2,194 M File Anti-Copy 5.5.lnk
+02/23/2024  02:50 AM             2,348 Microsoft Edge.lnk
+08/07/2012  05:48 PM             3,594 Read Me.txt
+02/23/2024  07:46 AM                31 READ.txt
+02/01/2024  03:06 AM           462,848 suo_exploit_test.exe
+02/23/2024  02:57 AM    <DIR>          TESST
+03/03/2024  01:50 PM            12,800 tesst.exe
+02/23/2024  08:09 AM                58 test.bat
+03/03/2024  01:11 PM             9,728 TESTLOCK.exe
+03/08/2023  05:40 AM               293 VS2019 Key.txt
+02/02/2023  05:04 PM         1,336,208 vs_enterprise__1165010811.1567758444_VS2019.exe
+10/12/2023  06:23 AM         3,579,880 winrar-x64-624.exe
+              13 File(s)      9,327,060 bytes
+               7 Dir(s)  28,242,059,264 bytes free
 
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
+C:\Users\Du\Desktop>
+C:\Users\Du\Desktop>
+C:\Users\Du\Desktop>
