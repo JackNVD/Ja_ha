@@ -1,33 +1,7 @@
 Microsoft Windows [Version 10.0.19045.1826]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Du\Desktop>cmd /k dir cd ..
- Volume in drive C has no label.
- Volume Serial Number is BACE-C775
-
- Directory of C:\Users\Du\Desktop
-
-
- Directory of C:\Users\Du
-
-02/23/2024  03:27 AM    <DIR>          .
-02/23/2024  03:27 AM    <DIR>          ..
-02/23/2024  02:49 AM    <DIR>          3D Objects
-02/23/2024  02:49 AM    <DIR>          Contacts
-03/11/2024  12:23 PM    <DIR>          Desktop
-02/23/2024  03:26 AM    <DIR>          Documents
-02/23/2024  02:49 AM    <DIR>          Downloads
-02/23/2024  02:49 AM    <DIR>          Favorites
-02/23/2024  02:49 AM    <DIR>          Links
-02/23/2024  02:49 AM    <DIR>          Music
-02/23/2024  02:51 AM    <DIR>          OneDrive
-02/23/2024  02:50 AM    <DIR>          Pictures
-02/23/2024  02:49 AM    <DIR>          Saved Games
-02/23/2024  02:50 AM    <DIR>          Searches
-02/23/2024  03:27 AM    <DIR>          source
-02/23/2024  02:49 AM    <DIR>          Videos
-               0 File(s)              0 bytes
-              16 Dir(s)  24,332,308,480 bytes free
+C:\Users\Du\Desktop>cmd /k calc
 
 C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
