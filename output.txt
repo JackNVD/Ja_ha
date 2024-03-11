@@ -1,12 +1,7 @@
 Microsoft Windows [Version 10.0.19045.1826]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Du\Desktop>cmd /k echo IDENTITY: Program65809
-IDENTITY: Program65809
+C:\Users\Du\Desktop>cmd /k calc
 
-C:\Users\Du\Desktop>cmd /k IDENTITY
-
-C:\Users\Du\Desktop>
-C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
