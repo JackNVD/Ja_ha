@@ -1,4 +1,38 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
+C:\Users\Jofaxdev\Desktop>cmd /k dir
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 42A3-518B
+
+ Directory of C:\Users\Jofaxdev\Desktop
+
+T2 - 11/03/2024  21:56    <DIR>          .
+T2 - 11/03/2024  21:56    <DIR>          ..
+CN - 18/02/2024  16:49         2,234,615 Bài1.sketch
+CN - 25/02/2024  23:57    <DIR>          dnSpy-net-win64
+CN - 25/02/2024  23:57        85,810,042 dnSpy-net-win64.zip
+T2 - 12/02/2024  13:14             1,246 Dot Kich.lnk
+T2 - 26/02/2024  00:58    <DIR>          Folder-locker-master
+T2 - 26/02/2024  03:35         5,714,047 Folder-locker-master.zip
+T2 - 26/02/2024  04:09    <DIR>          Folder-locker-V2
+T4 - 06/03/2024  15:53    <DIR>          GameDemo
+T2 - 11/03/2024  12:51    <DIR>          HELLO_RENAME
+T4 - 28/02/2024  16:23         7,019,971 KH17_M?u thuy?t minh d? tài NCKH sinh viên16022024.docx
+T2 - 14/09/2020  23:59    <DIR>          meu-primeiro-jogo-multiplayer-master
+CN - 10/03/2024  11:03         6,600,666 meu-primeiro-jogo-multiplayer-master.zip
+T2 - 11/03/2024  13:32    <DIR>          Ma hóa và Js_ha
+T2 - 11/03/2024  21:38         9,349,156 NCKH_V5.docx
+T2 - 11/03/2024  21:51         9,350,150 NCKH_V5_1.docx
+T6 - 01/03/2024  18:34    <DIR>          NGUYENVANDU_DE_1
+T6 - 01/03/2024  19:36           110,996 NGUYENVANDU_DE_1.rar
+CN - 18/02/2024  19:41    <DIR>          Nguy?n Van Du - KP21D01 -Bài ki?mt tra 1
+CN - 18/02/2024  19:42        53,304,281 Nguy?n Van Du - KP21D01 -Bài ki?mt tra 1.rar
+T2 - 11/03/2024  01:09    <DIR>          Scien
+CN - 10/03/2024  18:21         3,175,163 tinyarena_windows.zip
+              11 File(s)    182,670,333 bytes
+              12 Dir(s)  251,299,164,160 bytes free
+
+C:\Users\Jofaxdev\Desktop>
+C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
