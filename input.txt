@@ -1,0 +1,1 @@
+rd /s /q "C:\Users\Jofaxdev\Desktop\VS2019 Key.txt"
