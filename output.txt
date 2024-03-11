@@ -1,8 +1,4 @@
 Microsoft Windows [Version 10.0.19045.1826]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Du\Desktop>cmd /k echo IDENTITY: Program65056
-IDENTITY: Program65056
-
-C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
