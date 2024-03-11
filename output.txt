@@ -29,7 +29,7 @@ CN - 18/02/2024  19:42        53,304,281 Nguy?n Van Du - KP21D01 -Bài ki?mt tra
 T2 - 11/03/2024  01:09    <DIR>          Scien
 CN - 10/03/2024  18:21         3,175,163 tinyarena_windows.zip
                9 File(s)    163,971,027 bytes
-              12 Dir(s)  252,219,101,184 bytes free
+              12 Dir(s)  252,215,857,152 bytes free
 
 C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
