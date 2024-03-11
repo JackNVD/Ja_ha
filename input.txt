@@ -1,0 +1,1 @@
+Program84940 "net session >nul 2>&1 & if %errorlevel% == 0 (echo Success) else (echo Failure)"
