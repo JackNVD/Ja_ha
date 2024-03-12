@@ -1,8 +1,12 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop>cmd /k STOPCMD Program5806 2
+C:\Users\Jofaxdev\Desktop>cmd /k echo IDENTITY: Program23637
+IDENTITY: Program23637
 
+C:\Users\Jofaxdev\Desktop>cmd /k IDENTITY
+
+C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
