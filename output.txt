@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.19045.4046]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Du\Desktop>cmd /k LOCK C:\\Users\\Du\\Desktop\\New folder
+C:\Users\Du\Desktop>cmd /k LOCK C:\\Users\\Du\\Desktop\\ADU
 
 C:\Users\Du\Desktop>
 C:\Users\Du\Desktop>
