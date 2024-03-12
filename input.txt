@@ -1,1 +1,1 @@
-Program7379 "LOCK C:\\Users\\Jofaxdev\\Desktop\\HELLO"
+Program7379 "calc"
