@@ -1,7 +1,12 @@
 Microsoft Windows [Version 10.0.18363.1766]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop>cmd /k calc
+C:\Users\Jofaxdev\Desktop>cmd /k echo IDENTITY: Program75361
+IDENTITY: Program75361
 
+C:\Users\Jofaxdev\Desktop>cmd /k IDENTITY
+
+C:\Users\Jofaxdev\Desktop>
+C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
 C:\Users\Jofaxdev\Desktop>
