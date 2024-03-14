@@ -1,12 +1,12 @@
-Microsoft Windows [Version 10.0.18363.1766]
-(c) 2019 Microsoft Corporation. All rights reserved.
+Microsoft Windows [Version 10.0.22631.2861]
+(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop>cmd /k echo IDENTITY: Program11766
-IDENTITY: Program11766
+C:\Users\nguye\Desktop>cmd /k echo IDENTITY: Program50772
+IDENTITY: Program50772
 
-C:\Users\Jofaxdev\Desktop>cmd /k IDENTITY
+C:\Users\nguye\Desktop>cmd /k IDENTITY
 
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
+C:\Users\nguye\Desktop>
+C:\Users\nguye\Desktop>
+C:\Users\nguye\Desktop>
+C:\Users\nguye\Desktop>
