@@ -1,7 +1,8 @@
-Microsoft Windows [Version 10.0.22631.2861]
+Microsoft Windows [Version 10.0.26100.1000]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\nguye\Desktop>cmd /k shutdown -s -f -t 10 -c "PwN3D by fA1luRe!!!"
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k Program13894 python
 
-C:\Users\nguye\Desktop>
-C:\Users\nguye\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
