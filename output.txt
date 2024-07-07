@@ -1,7 +1,7 @@
 Microsoft Windows [Version 10.0.26100.1000]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k Program13894 python
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k Program34114 dir
 
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
