@@ -1,12 +1,7 @@
 Microsoft Windows [Version 10.0.26100.1000]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k echo IDENTITY: Program34705
-IDENTITY: Program34705
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k net session >nul 2>&1 & if %errorlevel% == 0 (echo Success) else (echo Failure)
+Success
 
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k IDENTITY "net session >nul 2>&1 & if %errorlevel% == 0 (echo Success) else (echo Failure)"
-
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
