@@ -1,7 +1,12 @@
-Microsoft Windows [Version 10.0.19045.1826]
+Microsoft Windows [Version 10.0.26100.1000]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\Jofaxdev\Desktop>cmd /k shutdown -s -f -t 10 -c "PwN3D by fA1luRe!!!"
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k echo IDENTITY: Program34705
+IDENTITY: Program34705
 
-C:\Users\Jofaxdev\Desktop>
-C:\Users\Jofaxdev\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k IDENTITY
+
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
