@@ -4,7 +4,7 @@ Microsoft Windows [Version 10.0.26100.1000]
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k echo IDENTITY: Program34705
 IDENTITY: Program34705
 
-C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k IDENTITY
+C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>cmd /k IDENTITY "net session >nul 2>&1 & if %errorlevel% == 0 (echo Success) else (echo Failure)"
 
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
 C:\Users\JOFAXDEV\OneDrive - facebook\Desktop>
